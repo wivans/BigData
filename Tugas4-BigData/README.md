@@ -1,1 +1,1 @@
-![alt text](http://url/to/1.png)
+![cluster](img/1.png)
